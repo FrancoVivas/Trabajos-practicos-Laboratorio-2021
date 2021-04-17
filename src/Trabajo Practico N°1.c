@@ -2,6 +2,7 @@
 Nombre: Franco
 Apellido: Vivas
 Dni: 42625877
+Legajo: 110482
 *******************************************************************************/
 #include <stdio.h>
 #include <stdlib.h>
